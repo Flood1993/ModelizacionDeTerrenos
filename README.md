@@ -1,6 +1,6 @@
 # Modelizacion de terrenos
 
-![alt text](https://github.com/Flood1993/ModelizacionDeTerrenos/blob/master/3dterrain.png "Before adjusting")
+![alt text](https://github.com/Flood1993/ModelizacionDeTerrenos/blob/master/3dterrain.png "Visualización 3D de un terreno real")
 
 Desde hace mucho tiempo, ha suscitado un gran interés al ser humano el estudio de la tierra y sus diferentes propiedades. Como se puede imaginar, realizar un análisis de un lugar era algo costoso, ya que las mediciones debían ser precisas y fiables. Esto dio lugar a la cartografía, rama de la ciencia que se centra en el desarrollo de mapas geográficos.
 
